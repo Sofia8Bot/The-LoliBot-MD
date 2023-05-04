@@ -28,7 +28,7 @@ global.prems = ['201159250900', '201158862316'],
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es  //Idioma de The-LoliBot-MD, Ejemplo: es | en | pt...
+global.lenguajeGB = ar  //Idioma de The-LoliBot-MD, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -99,7 +99,7 @@ global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png')
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = 'Sofia-Bot'
-global.author = 'Sogia-Bot'
+global.author = 'ITOSHI RIN'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
