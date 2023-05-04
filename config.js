@@ -7,10 +7,10 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario ⋅.━━━━ ⊰  
 global.owner = [
-  ['5492266466080', '𝙏𝙝𝙚 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
-  ['5492266613038', '𝙏𝙝𝙚 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
-  ['56964787183', '𝙏𝙝𝙚 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true], 
-//['593968585383'], DEJEN ESTO ASÍ POR AHORA POR FAVOR
+  ['201159250900', 'Sofia-Bot', true],
+  ['201158862316', 'Sofia-Bot', true],
+  ['201158862102', 'Sofia-Bot', true], 
+//['966503871054'], DEJEN ESTO ASÍ POR AHORA POR FAVOR
   ['59895551199'], //bot
   ['56977774738'], 
   ['18134037792'],
@@ -18,8 +18,8 @@ global.owner = [
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = ['50495745934'] 
-global.prems = ['595986172767', '5493704555464'],  
+global.mods = ['201159250900'] 
+global.prems = ['201159250900', '201158862316'],  
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -98,46 +98,46 @@ global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png')
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = 'Toma tu sticker'
-global.author = 'The LoliBot-MD'
+global.packname = 'Sofia-Bot'
+global.author = 'Sogia-Bot'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.4.5'
 global.vsJB = '2.0'
 
-global.lb = '𝙏𝙝𝙚 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.lb = 'Sofia-Bot'
 global.lolibot = lb
 
-global.yt = 'https://www.youtube.com/@TheLoliBot-MD'
+global.yt = 'https://www.youtube.com'
 global.youtube = yt
 
-global.ig = 'https://www.tiktok.com/@thelolibot_md'
+global.ig = 'https://www.tiktok.com'
 global.tiktok = ig
 
-global.md = 'https://github.com/elrebelde21/The-LoliBot-MD'
+global.md = 'https://github.com/Sofia8Bot/The-LoliBot-MD.git'
 global.lolibot = md
 
-global.nna = 'https://chat.whatsapp.com/JESaesjOEcB6wnGX0QYT9o'
+global.nna = 'https://chat.whatsapp.com/Hi7T4d40HlO4z2TU1YbZwH'
 global.nnagrupo = nna //Actualización, información sobre el bot
 global.nna2 = 'JESaesjOEcB6wnGX0QYT9o'
 
-global.nn = 'https://chat.whatsapp.com/BaHPUdegBxB4eurlAbhOT8'
+global.nn = 'https://chat.whatsapp.com/Hi7T4d40HlO4z2TU1YbZwH'
 global.nngrupo = nn //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/IIteN3dd6rG87b2liETl2o'
+global.nnn = 'https://chat.whatsapp.com/Hi7T4d40HlO4z2TU1YbZwH'
 global.nnngrupo = nnn //Grupo 2
 
-global.nnnt = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo del Colaboracion
+global.nnnt = 'https://chat.whatsapp.com/Hi7T4d40HlO4z2TU1YbZwH' //Grupo del Colaboracion
 
-global.nnntt = 'https://chat.whatsapp.com/ImKvcl3Pstb8IMZk02v692' //Grupo COL 2 
+global.nnntt = 'https://chat.whatsapp.com/Hi7T4d40HlO4z2TU1YbZwH' //Grupo COL 2 
 
-global.nnnttt = 'https://chat.whatsapp.com/DsFPvTLFDQaBroutCnD2DO' //enlace lolibot
+global.nnnttt = 'https://chat.whatsapp.com/Hi7T4d40HlO4z2TU1YbZwH' //enlace lolibot
 
-global.nnntttt = 'https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs'
+global.nnntttt = 'https://chat.whatsapp.com/Hi7T4d40HlO4z2TU1YbZwHs'
 global.nnnttttgrupo = nnntttt //Grupo ayuda sobre el bot
 
-global.asistencia = 'Wa.me/5492266466080' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/201159250900' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -171,13 +171,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
-global.igfg = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.wm = 'Sofia-Bot'
+global.igfg = 'Sofia-Bot'
 global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '5492266466080'
+global.nomorown = '201159250900'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -209,28 +209,28 @@ global.imagen4 = fs.readFileSync('./media/menus/img3.jpg')
 
 //━━━━━━━━━━━━━━ img ━━━━━━━━━
 
-global.img = 'https://i.imgur.com/H6AofpJl.jpg'
-global.img2 = 'https://i.imgur.com/R1uVUId.jpeg'
+global.img = 'https://telegra.ph/file/d8bb0b95392b37cd925cd.jpg'
+global.img2 = 'https://telegra.ph/file/d8bb0b95392b37cd925cd.jpg'
 
-global.img3 = 'https://i.imgur.com/Q5m8R11.jpeg' //prem
-global.img4 = 'https://i.imgur.com/sJ3HUTb.jpeg' //prem
+global.img3 = 'https://telegra.ph/file/d8bb0b95392b37cd925cd.jpg' //prem
+global.img4 = 'https://telegra.ph/file/d8bb0b95392b37cd925cd.jpg' //prem
 
-global.img5 = 'https://i.imgur.com/gb8HwKN.jpeg'
-global.img6 = 'https://i.imgur.com/qevNnBU.jpeg'
-global.img7 = 'https://i.imgur.com/c1xXpPX.jpeg'
-global.img8 = 'https://i.imgur.com/5cofHE5.jpeg'
+global.img5 = 'https://telegra.ph/file/d8bb0b95392b37cd925cd.jpg'
+global.img6 = 'https://telegra.ph/file/d8bb0b95392b37cd925cd.jpg'
+global.img7 = 'https://telegra.ph/file/d8bb0b95392b37cd925cd.jpg'
+global.img8 = 'https://telegra.ph/file/d8bb0b95392b37cd925cd.jpg'
 global.img9 = 'https://i.imgur.com/qevNnBU.jpeg'
 
-global.img10 = 'https://i.imgur.com/R1uVUId.jpeg'
-global.img11 = 'https://i.imgur.com/Q5m8R11.jpeg'
-global.img12 = 'https://i.imgur.com/gb8HwKN.jpeg'
-global.img13 = 'https://i.imgur.com/qevNnBU.jpeg'
-global.img14 = 'https://i.imgur.com/c1xXpPX.jpeg'
-global.img15 = 'https://i.imgur.com/5cofHE5.jpeg'
+global.img10 = 'https://telegra.ph/file/d8bb0b95392b37cd925cd.jpg'
+global.img11 = 'https://telegra.ph/file/d8bb0b95392b37cd925cd.jpg'
+global.img12 = 'https://telegra.ph/file/d8bb0b95392b37cd925cd.jpg'
+global.img13 = 'https://telegra.ph/file/d8bb0b95392b37cd925cd.jpg'
+global.img14 = 'https://telegra.ph/file/d8bb0b95392b37cd925cd.jpg'
+global.img15 = 'https://telegra.ph/file/d8bb0b95392b37cd925cd.jpg'
 
 global.img16 = 'https://i.imgur.com/11MRjo4.jpeg' //+18
 
-global.img17 = 'https://i.imgur.com/JpYfcH0.jpeg'
+global.img17 = 'https://telegra.ph/file/d8bb0b95392b37cd925cd.jpg'
 
 global.redesMenu = [nna, nna2, nn, nnn, nnnt, nnntt, nnnttt, nnntttt, md, ig, lb, yt]
 global.gataMenu = [img, img2, img6, img7, img8, img9, img13, img14, img15, img16]
