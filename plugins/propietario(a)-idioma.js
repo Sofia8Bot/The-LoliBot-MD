@@ -14,7 +14,7 @@ let idioma3 = await translate(`${texto3}`, { to: lenguajeGB.lenguaje(), autoCorr
 
 try {  
 if (args[0] == 'es'){
-global.lenguajeGB = es
+global.lenguajeGB = ar
 await conn.sendButton(m.chat, lenguajeGB['smsAvisoEG']() + idioma.text + '\n' + 'დ ```Español```', wm, null, [[`☘️ 𝗠 𝗘 𝗡 𝗨`, `${usedPrefix}menu`]], fkontak, m)
   
 }else if (args[0] == 'en'){
